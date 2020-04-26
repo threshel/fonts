@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'ADRENALINE';
-    src: url('https://gitcdn.link/repo/rrenode/font/master/ADRENALINE.woff2') format('woff2'),
-        url('https://gitcdn.link/repo/rrenode/font/master/ADRENALINE.wofff') format('woff');
+    src: url('https://rawcdn.githack.com/threshel/fonts/43b981facb5ffd4bc381de488520c2b286667c5b/ADRENALINE.woff2') format('woff2'),
+        url('https://rawcdn.githack.com/threshel/fonts/43b981facb5ffd4bc381de488520c2b286667c5b/ADRENALINE.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
