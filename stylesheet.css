@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'ADRENALINE';
+    src: url('https://gitcdn.link/repo/rrenode/font/master/ADRENALINE.woff2') format('woff2'),
+        url('https://gitcdn.link/repo/rrenode/font/master/ADRENALINE.wofff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
